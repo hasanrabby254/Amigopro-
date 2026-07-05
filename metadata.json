@@ -1,0 +1,6 @@
+{
+  "name": "AmigoPro Content Calendar",
+  "description": "A 20-day Facebook content calendar for AmigoPro featuring Digital Marketing and IT Solution posts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

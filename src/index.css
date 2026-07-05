@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Noto Sans Bengali", ui-sans-serif, system-ui, sans-serif;
+  --font-bengali: "Noto Sans Bengali", sans-serif;
+  
+  --color-navy: #0B1F3A;
+  --color-navy-light: #16325B;
+  --color-gold: #F59E0B;
+  --color-teal: #14B8A6;
+  --color-offwhite: #F8FAFC;
+}
+
